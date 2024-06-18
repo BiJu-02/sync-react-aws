@@ -1,0 +1,29 @@
+{
+  "name": "sync-react-aws",
+  "version": "1.0.0",
+  "description": "script for building react app in current directory and uploading it to s3 and invalidating cloudfront cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiJu-02/sync-react-aws.git"
+  },
+  "keywords": [
+    "react",
+    "build",
+    "aws",
+    "s3",
+    "cloudfront",
+    "auto",
+    "ci/cd"
+  ],
+  "bin": "./index.js",
+  "author": "bakacoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiJu-02/sync-react-aws/issues"
+  },
+  "homepage": "https://github.com/BiJu-02/sync-react-aws#readme"
+}
